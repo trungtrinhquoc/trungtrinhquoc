@@ -64,29 +64,31 @@
 
 ---
 
+---
+
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=trungtrinh10504&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" width="48%" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=trungtrinh10504&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=trungtrinhquoc&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungtrinhquoc&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
-
 
 ---
 
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/trungtrinh10504/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/trungtrinh10504/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:trinhquoctrung10504@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/trungtrinh10504/trungtrinh10504/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/trungtrinhquoc/trungtrinhquoc/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
