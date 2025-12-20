@@ -1,14 +1,9 @@
 name: generate animation
 
 on:
-  # Chạy tự động mỗi 24 giờ
   schedule:
     - cron: "0 */24 * * *" 
-  
-  # Cho phép chạy thủ công bằng tay
   workflow_dispatch:
-  
-  # Chạy mỗi khi có thay đổi ở nhánh main
   push:
     branches:
     - main
@@ -19,8 +14,7 @@ jobs:
     timeout-minutes: 5
     
     steps:
-      # tạo file con rắn từ biểu đồ commit của trungtrinhquoc
-      - name: generate github-contribution-grid-snake.svg
+      - name: generate snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: trungtrinhquoc
@@ -28,8 +22,7 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # đẩy file vừa tạo vào nhánh 'output'
-      - name: push github-contribution-grid-snake.svg to the output branch
+      - name: push snake.svg to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
