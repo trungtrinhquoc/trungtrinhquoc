@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=6,2,2&height=200&section=header&text=Trung%20Trịnh%20Quốc&fontSize=60&fontColor=fff&animation=twinkling" alt="Header" />
+  <img src="https://thumbs.dreamstime.com/b/pixel-art-sunset-landscape-deer-silhouette-367249647.jpg" alt="Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Trung Trịnh Quốc</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=47A1FF&center=true&vCenter=true&width=700&lines=Final-Year+Software+Engineering+Student;Aspiring+AI+Engineer;Specializing+in+Generative+AI+%26+Intelligent+Systems;Backend+%26+Full-Stack+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=47A1FF&center=true&vCenter=true&width=800&lines=Final-Year+Software+Engineering+Student;Aspiring+AI+Engineer;Specializing+in+Generative+AI+%26+Intelligent+Systems;Backend+%26+Full-Stack+Developer" />
 </p>
 
 <p align="center">
@@ -33,18 +33,30 @@
 </p>
 
 ---
-### 📊 GitHub Dashboard & Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=trungtrinhquoc&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=trungtrinhquoc&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=trungtrinhquoc&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  </picture>
   &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trungtrinhquoc&theme=transparent&hide_border=true" alt="GitHub Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=trungtrinhquoc&theme=radical&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=trungtrinhquoc&theme=gruvbox_light&hide_border=true" alt="GitHub Streak" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungtrinhquoc&layout=compact&theme=transparent&hide_border=true&langs_count=10" alt="Top Languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=trungtrinhquoc&layout=compact&theme=radical&hide_border=true&langs_count=10" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungtrinhquoc&layout=compact&theme=gruvbox_light&hide_border=true&langs_count=10" alt="Top Languages" />
+  </picture>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=trungtrinhquoc&repo=fairy-story-generator&theme=transparent&hide_border=true" alt="Featured Repo" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=trungtrinhquoc&repo=fairy-story-generator&theme=radical&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=trungtrinhquoc&repo=fairy-story-generator&theme=gruvbox&hide_border=true" alt="Featured Repo" />
+  </picture>
 </p>
 
 ---
@@ -69,7 +81,7 @@
 *My flagship project showcasing end-to-end Generative AI integration and delightful user experience.*
 
 ---
-### 🐍 Contribution Snake (Light & Clean)
+### 🐍 Contribution Snake (Auto Dark/Light Mode)
 
 <p align="center">
   <picture>
