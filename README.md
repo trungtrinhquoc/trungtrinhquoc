@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=60A5FA&center=true&vCenter=true&width=800&lines=Final-Year+Software+Engineering+Student;Aspiring+AI+Engineer;Specializing+in+Generative+AI+%26+Intelligent+Systems;Backend+%26+Full-Stack+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=60A5FA&center=true&vCenter=true&width=800&lines=Final-Year+Software+Engineering+Student;AI+Engineer;Specializing+in+Generative+AI;Backend+%26+Full-Stack+Developer" />
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 
 ---
 ### 👨‍💻 About Me
-- 🎓 Final-year **Software Engineering** student at **FPT University**, Vietnam 🇻🇳
+- 🎓 Final-year **Software Engineering** student at **FPT University**, Vietnam
 - 🤖 Passionate about **Generative AI** – building multimodal intelligent applications
 - 💻 Strong in **Backend Engineering**, AI integrations, and **Full-stack Development**
 - 🌱 Currently deepening expertise in LLMs, multimodal models (text + image + audio), and scalable AI architectures
