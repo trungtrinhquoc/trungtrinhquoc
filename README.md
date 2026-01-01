@@ -1,11 +1,10 @@
+<!-- ===================== DARK GRADIENT HEADER (NO IMAGE) ===================== -->
 <p align="center">
-  <img src="https://thumbs.dreamstime.com/b/pixel-art-sunset-landscape-deer-silhouette-367249647.jpg" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:1a0b2e,50:701a75,100:be185d&text=Hi%20👋,%20I'm%20Trung%20Trịnh%20Quốc&fontColor=ffffff&fontSize=35&fontAlignY=50&animation=fadeIn" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Trung Trịnh Quốc</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=47A1FF&center=true&vCenter=true&width=800&lines=Final-Year+Software+Engineering+Student;Aspiring+AI+Engineer;Specializing+in+Generative+AI+%26+Intelligent+Systems;Backend+%26+Full-Stack+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=60A5FA&center=true&vCenter=true&width=800&lines=Final-Year+Software+Engineering+Student;Aspiring+AI+Engineer;Specializing+in+Generative+AI+%26+Intelligent+Systems;Backend+%26+Full-Stack+Developer" />
 </p>
 
 <p align="center">
@@ -32,34 +31,20 @@
   <img src="https://skillicons.dev/icons?i=python,fastapi,openai,gemini,java,spring,cs,dotnet,postgres,supabase,aws,firebase,googlecloud,docker,git,nextjs,react,typescript&perline=9&theme=dark" />
 </p>
 
----
 ### 📊 GitHub Stats
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=trungtrinhquoc&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-    <img src="https://github-readme-stats.vercel.app/api?username=trungtrinhquoc&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  </picture>
-  &nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=trungtrinhquoc&theme=radical&hide_border=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=trungtrinhquoc&theme=gruvbox_light&hide_border=true" alt="GitHub Streak" />
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=trungtrinhquoc" />
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=trungtrinhquoc&layout=compact&theme=radical&hide_border=true&langs_count=10" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungtrinhquoc&layout=compact&theme=gruvbox_light&hide_border=true&langs_count=10" alt="Top Languages" />
-  </picture>
-  &nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=trungtrinhquoc&repo=fairy-story-generator&theme=radical&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=trungtrinhquoc&repo=fairy-story-generator&theme=gruvbox&hide_border=true" alt="Featured Repo" />
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungtrinhquoc&layout=compact" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=trungtrinhquoc" />
+</p>
+
 ### 🌟 Featured Project
 #### 🧚 Fairy Story Generator – Multimodal AI-Powered Fairy Tales
 🔗 [GitHub Repository](https://github.com/trungtrinhquoc/fairy-story-generator)
