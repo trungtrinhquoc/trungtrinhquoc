@@ -1,6 +1,6 @@
 <!-- ===================== DARK GRADIENT HEADER (NO IMAGE) ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:1a0b2e,50:701a75,100:be185d&text=Hi%20👋,%20I'm%20Trung%20Trịnh%20Quốc&fontColor=ffffff&fontSize=35&fontAlignY=50&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:1a0b2e,50:701a75,100:be185d&text=Hi%20👋,%20I'm%20Trung%20Trịnh%20Quốc&fontColor=ffffff&fontSize=35&fontAlignY=50&animation=fadeIn&font=lobster" width="100%" />
 </p>
 
 <p align="center">
@@ -26,32 +26,40 @@
 - ⚡ Fun fact: I build AI apps that create magical fairy tales complete with stories, illustrations, and voice narration 🧚
 
 ---
-### 🛠 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,openai,gemini,java,spring,cs,dotnet,postgres,supabase,aws,firebase,googlecloud,docker,git,nextjs,react,typescript&perline=9&theme=dark" />
-</p>
-
-### 📊 GitHub Stats
+### 🛠 The Tech Ecosystem
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=trungtrinhquoc" />
+  <b>💻 Core Languages</b><br/>
+  <img src="https://skillicons.dev/icons?i=python,java,cs,html,css,js,ts&perline=7&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungtrinhquoc&layout=compact" />
+  <b>⚙️ Frameworks & Architectures</b><br/>
+  <img src="https://skillicons.dev/icons?i=fastapi,spring,dotnet,react,nextjs,nodejs&perline=6&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=trungtrinhquoc" />
+  <b>💾 Data & Cloud Infrastructure</b><br/>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+<p align="center">
+  <b>🤖 Generative AI Stack</b><br/>
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
 </p>
 
 ### 🌟 Featured Project
 #### 🧚 Fairy Story Generator – Multimodal AI-Powered Fairy Tales
 🔗 [GitHub Repository](https://github.com/trungtrinhquoc/fairy-story-generator)
-🚀 Live Demo: *Coming soon* (deploying...)
-
 > A modern full-stack web app that generates **personalized, kid-safe fairy tales** for children (4–10 years), complete with:
-> - Engaging **text stories** (Gemini 1.5 Flash)
+> - Engaging **text stories** (GPT-4o)
 > - Beautiful **Pixar-style illustrations** (Vertex AI Imagen)
 > - Natural **voice narration** in English/Vietnamese (gTTS)
 
